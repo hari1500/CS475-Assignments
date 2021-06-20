@@ -1,0 +1,5 @@
+Key Frame structure
+rocket_stage(1 val)         -- 1,2,3,4
+trajectory1(2 val)          -- 0/1  0-1
+trajectory2(2 val)          -- 0/1  0-1
+trajectory3(2 val)          -- 0/1  0-1
